@@ -13,21 +13,21 @@ function App() {
   const questions = [
     {//1
       a: {
-        question: "Prudent et réfléchi\n",
+        question: "Prudent and thoughtful\n",
         groupe: 4
       },
       b: {
-        question: "Loyal et attentif à l'autrui\n",
+        question: "Loyal and attentive to others \n",
         groupe: 3
       }
 
       ,
       c: {
-        question: "Influent et démonstratif\n",
+        question: "Influential and demonstrativef\n",
         groupe: 2
       },
       d: {
-        question: "Stratège et entreprenant\n",
+        question: "Strategic and enterprising\n",
         groupe: 1
       }
     }
@@ -35,163 +35,163 @@ function App() {
     ,
     {//2
       a: {
-        question: "Sociable et familier\n",
+        question: "Sociable and friendly\n",
         groupe: 2
       },
       b: {
-        question: "Honnête et discret\n",
+        question: "Honest and discreet \n",
         groupe: 3
       },
       c: {
-        question: "Énergique et orienté vers le résultat\n",
+        question: "Energetic and results-oriented\n",
         groupe: 1
       },
       d: {
-        question: "Méthodique et logique\n",
+        question: "Methodical and logical\n",
         groupe: 4
       }
     },
     {//3
       a: {
-        question: "Calme et d'humeur égale\n",
+        question: "Self-confident and volunteer\n",
         groupe: 3
       },
       b: {
-        question: "Déterminé et aimant diriger\n",
+        question: "Orderly and concise\n",
         groupe: 1
       },
       c: {
-        question: "Enjoué et rayonnant\n",
+        question: "Confortable and stable\n",
         groupe: 2
       },
       d: {
-        question: "Formaliste et factuel\n",
+        question: "Formaliste and factual\n",
         groupe: 4
       }
     },
     {//4
       a: {
-        question: "Sûr de vous  et volontaire\n",
+        question: "Insightful and impartiale\n",
         groupe: 1
       },
       b: {
-        question: "Ordonné et concis\n",
+        question: "Demanding and direct\n",
         groupe: 4
       },
       c: {
-        question: "Familier et stable\n",
+        question: "Consistent and committed to values\n",
         groupe: 3
       },
       d: {
-        question: "Loquace et de bonne humeur\n",
+        question: "Active and binder\n",
         groupe: 2
       }
     },
     {//5
       a: {
-        question: "Perspicace et impartial\n",
+        question: " Accommodating and helpful\n",
         groupe: 4
       },
       b: {
-        question: "Exigeant et direct\n",
+        question: "Hopeful and expressive\n",
         groupe: 1
       },
       c: {
-        question: "Constant et attaché aux valeurs\n",
+        question: " Puissant and sure of yourself\n",
         groupe: 3
       },
       d: {
-        question: "Actif et liant\n",
+        question: "Pensif and self-control\n",
         groupe: 2
       }
     },
     {//6
       a: {
-        question: "Accommodant et serviable\n",
+        question: "Open and persuasive\n",
         groupe: 3
       },
       b: {
-        question: "Plein d'espoir et expressif\n",
+        question: "Applied and selective in your relationships\n",
         groupe: 2
       },
       c: {
-        question: "Influent et démonstratif\n",
+        question: "Firm and enterprising\n",
         groupe: 1
       },
       d: {
-        question: "Puissant et sûr de lui\n",
+        question: " Posed and analytical\n",
         groupe: 4
       }
     },
     {//7
       a: {
-        question: "Ouvert et persuasif\n",
+        question: "Determined and Resolved\n",
         groupe: 2
       },
       b: {
-        question: "Appliqué et sélectif dans ses relations\n",
+        question: "Jovial and charming\n",
         groupe: 3
       },
       c: {
-        question: "Ferme et entreprenant\n",
+        question: "Sensitive and friendly\n",
         groupe: 1
       },
       d: {
-        question: "Posé et analytique\n",
+        question: "Logical and correct\n",
         groupe: 4
       }
     },
     {//8
       a: {
-        question: "Déterminé et résolu\n",
+        question: "Compassionate and diplomatic\n",
         groupe: 1
       },
       b: {
-        question: "Avenant et jovial\n",
+        question: " Accurate and measured\n",
         groupe: 2
       },
       c: {
-        question: "Sensible et amical\n",
+        question: "Encouraging and open to ideas\n",
         groupe: 3
       },
       d: {
-        question: "Logique et correct\n",
+        question: "Results-oriented and fast-paced\n",
         groupe: 4
       }
     },
     {//9
       a: {
-        question: "Compatissant et diplomate\n",
+        question: " Responsible and firm\n",
         groupe: 3
       },
       b: {
-        question: "Précis et mesuré\n",
+        question: "Reserved and cooperative\n",
         groupe: 4
       },
       c: {
-        question: "Encourageant et ouvert aux idées\n",
+        question: " Expansive and imaginative\n",
         groupe: 2
       },
       d: {
-        question: "Orienté résultat et rapide\n",
+        question: "Meticulous and detail-oriented\n",
         groupe: 1
       }
     },
     {//10
       a: {
-        question: "Responsable et ferme\n",
+        question: "Team spirit and spontaneity\n",
         groupe: 1
       },
       b: {
-        question: "Réservé et coopératif\n",
+        question: " Controlled and rationaln",
         groupe: 3
       },
       c: {
-        question: "Expansif et imaginatif\n",
+        question: "Friendly and considerate\n",
         groupe: 2
       },
       d: {
-        question: "Méticuleux et minutieux\n",
+        question: "Persistent and result-oriented\n",
         groupe: 4
       }
     },
@@ -200,218 +200,218 @@ function App() {
     //New 
     {//11
       a: {
-        question: "Esprit d'équipe et spontané\n",
+        question: "  Analytical and Skeptic\n",
         groupe: 2
       },
       b: {
-        question: "Contrôlé et rationnel\n",
+        question: " Friendly and entertaining\n",
         groupe: 3
       },
       c: {
-        question: "Aimable et prévenant\n",
+        question: "Demanding and firm\n",
         groupe: 3
       },
       d: {
-        question: "Méticuleux et minutieux\n",
+        question: "Modest and faithful\n",
         groupe: 4
       }
     },
     {//12
       a: {
-        question: " Analyste et sceptique\n",
+        question: "Attached to your loved ones and calm\n",
         groupe: 4
       },
       b: {
-        question: "Amical et divertissant\n",
+        question: "Affectionate and confident\n",
         groupe: 2
       },
       c: {
-        question: "Exigeant et solide\n",
+        question: "Observant and distant\n",
         groupe: 1
       },
       d: {
-        question: "Modeste et fidèle\n",
+        question: " Active and controlling\n",
         groupe: 3
       }
     },
     {//13
       a: {
-        question: " Attaché à vos proches et calme\n",
+        question: " Voluntary and tenacious\n",
         groupe: 3
       },
       b: {
-        question: "Affectif et confiant\n",
+        question: "  Compliant and unbiased\n",
         groupe: 2
       },
       c: {
-        question: "Observateur et distant\n",
+        question: " Watchful and remote\n",
         groupe: 4
       },
       d: {
-        question: "Actif et contrôlant\n",
+        question: "  Operating and controlling\n",
         groupe: 1
       }
     },
     {//14
       a: {
-        question: "Volontaire et tenace\n",
+        question: " Formal and stick to your principles\n",
         groupe: 1
       },
       b: {
-        question: "Conforme et sans parti pris\n",
+        question: "Jovial and popular\n",
         groupe: 4
       },
       c: {
-        question: "Observateur et distant\n",
+        question: "Moderating and soothing\n",
         groupe: 2
       },
       d: {
-        question: "Actif et contrôlant\n",
+        question: "Firm and sharp\n",
         groupe: 3
       }
     },
     {//15
       a: {
-        question: "Formel et à principes\n",
+        question: " Animated and persuasive\n",
         groupe: 4
       },
       b: {
-        question: " Jovial et populaire\n",
+        question: " Decision maker and hurried\n",
         groupe: 2
       },
       c: {
-        question: "Modérateur et apaisant\n",
+        question: " Analytical and discipline-loving\n",
         groupe: 3
       },
       d: {
-        question: " Ferme et tranchant\n",
+        question: " Tolerant and calm\n",
         groupe: 1
       }
     },
 
     {//16
       a: {
-        question: "Animé et persuasif\n",
+        question: "Patient and emphatic\n",
         groupe: 2
       },
       b: {
-        question: "Décideur et pressé\n",
+        question: " Logical and measured\n",
         groupe: 1
       },
       c: {
-        question: "Analytique et aimant la discipline\n",
+        question: "Result-oriented and ready for a challenge\n",
         groupe: 4
       },
       d: {
-        question: "Tolérant et calme\n",
+        question: "Open to ideas and accommodating\n",
         groupe: 3
       }
     },
     {//17
       a: {
-        question: "Patient et empathique\n",
+        question: "Influential and relaxed\n",
         groupe: 3
       },
       b: {
-        question: "Logique et mesuré\n",
+        question: "Discreet and philosophical\n",
         groupe: 4
       },
       c: {
-        question: "Orienté résultat et prêt au défi\n",
+        question: "Thoughtful and circumspect\n",
         groupe: 1
       },
       d: {
-        question: "Ouvert aux idées et arrangeant\n",
+        question: " Persistent and determined\n",
         groupe: 2
       }
     },
     {//18
       a: {
-        question: "Influent et décontracté\n",
+        question: "  Procedure-oriented and well-prepared\n",
         groupe: 2
       },
       b: {
-        question: "Discret et philosophe\n",
+        question: "Courageous and autonomous\n",
         groupe: 3
       },
       c: {
-        question: "Réfléchi et circonspect\n",
+        question: "Extroverted and communicative\n",
         groupe: 4
       },
       d: {
-        question: "Opiniâtre et déterminé\n",
+        question: "Caring and give supportive advice\n",
         groupe: 1
       }
     },
     {//19
       a: {
-        question: "Axé procédures et bien préparé\n",
+        question: "Powerful and clear\n",
         groupe: 4
       },
       b: {
-        question: "Courageux et autonome\n",
+        question: "Spontaneous and lively \n",
         groupe: 1
       },
       c: {
-        question: " Extraverti et communicatif\n",
+        question: " Studious and reasoned\n",
         groupe: 2
       },
       d: {
-        question: "Bienveillant et de bon conseil\n",
+        question: " Peaceful and harmonious\n",
         groupe: 3
       }
     },
     {//20
       a: {
-        question: "Puissant et clair\n",
+        question: "Organized and prudent\n",
         groupe: 1
       },
       b: {
-        question: "Spontané et vif\n",
+        question: "Patient and helpful\n",
         groupe: 2
       },
       c: {
-        question: "Studieux et raisonné\n",
+        question: "  Argumentative and self-confident\n",
         groupe: 4
       },
       d: {
-        question: "Paisible et aimant l'harmonie\n",
+        question: " Interactive and open\n",
         groupe: 3
       }
     },
     {//21
       a: {
-        question: "Organisé et prudent\n",
+        question: "Independent and daring\n",
         groupe: 4
       },
       b: {
-        question: "Patient et serviable\n",
+        question: "Flexible and harmonious\n",
         groupe: 3
       },
       c: {
-        question: "Argumenté et sûr de vous\n",
+        question: "  Factual and standard compliant\n",
         groupe: 1
       },
       d: {
-        question: " Interactif et ouvert\n",
+        question: " Friendly and lively\n",
         groupe: 2
       }
     },
     {//22
       a: {
-        question: "Indépendant et audacieux\n",
+        question: "  Demonstrative and enthusiastic\n",
         groupe: 1
       },
       b: {
-        question: "Souple et harmonieux\n",
+        question: "Direct and realistic\n",
         groupe: 3
       },
       c: {
-        question: "Factuel et respectueux des normes\n",
+        question: "  Compassionate and considerate\n",
         groupe: 4
       },
       d: {
-        question: "Aimable et vivant\n",
+        question: " Focus and attention to detailn",
         groupe: 2
       }
     },
@@ -547,7 +547,7 @@ function App() {
         {i <= questions.length - 1 ?
           <div className="content" >
 
-            <h3>Vous  êtes  plutôt...</h3>
+            <h3>You are rather ...…</h3>
 
             <div className="group">
               <label htmlFor="a" className="radio">
@@ -643,10 +643,10 @@ function App() {
 
           : <End answers={
             [
-              { rouge: "ROUGE", points: g1 },
-              { jaune: "JAUNE", points: g2 },
-              { vert: "VERT", points: g3 },
-              { blue: "BLEU", points: g4 }
+              { rouge: "RED", points: g1 },
+              { jaune: "YELLOW", points: g2 },
+              { vert: "GREEB", points: g3 },
+              { blue: "BLUE", points: g4 }
             ]
           }
             setFinish={setFinish}

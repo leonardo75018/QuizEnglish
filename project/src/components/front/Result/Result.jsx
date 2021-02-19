@@ -41,8 +41,8 @@ const Result = ({ answers }) => {
     return (
         <div className="result-main">
             <div className="result-container">
-                <h4>Merci !</h4>
-                <p className="disc"> Votre profil DISC :</p>
+                <h4>Thank you !</h4>
+                <p className="disc"> Your DISC profile :</p>
                 <div className="groupe">
                     {
                         answers.map(item =>
@@ -62,7 +62,9 @@ const Result = ({ answers }) => {
                     profile.length === 0 ?
                         (
                             <div className="result-p">
-                                <p> Ce profil est votre style propre. C’est celui que vous utiliser spontanément quand vous n’êtes pas contraint de vous adapter à une situation, quand vous ne subissez ni pression ni stress, ou que vous n’êtes pas dans l’obligation d’adapter votre profil de personnalité à un contexte.</p>
+                                <p>
+                                    This profile is your own style. It is the one you use spontaneously when you are not forced to adapt to a situation, when you are not under pressure or stress, or when you are not obliged to adapt your personality profile to a context.
+                                </p>
                             </div>
                         ) : (<div> </div>)
 

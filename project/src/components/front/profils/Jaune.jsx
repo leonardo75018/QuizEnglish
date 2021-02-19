@@ -5,23 +5,21 @@ const Rouge = () => {
     return (
         <div id="profil-container">
             <div className="color">
-                <h2>  PROFILE</h2> &nbsp;&nbsp;&nbsp;&nbsp;  <h2 className="jaune marge">JAUNE </h2>
+                <h2>  PROFILE</h2> &nbsp;&nbsp;&nbsp;&nbsp;  <h2 className="jaune marge">YELLOW </h2>
             </div>
             <div className="descrip">
                 <p>
-                    Symbolisée par le soleil, la composante jaune décrit la manière dont une personne influence et interagit avec les autres. Ce comportement résulte d’une orientation vers l’action dans un environnement perçu comme favorable.
-                </p>
+                    Symbolized by the sun, the yellow component describes how a person influences and interacts with others. This behaviour results from an orientation towards action in a perceived supportive environment.                </p>
                 <p>
-                    Les personnes avec un profil à dominante  “jaune” sont sociables et communicantes. Elles perçoivent l’environnement de manière favorable/sociable et sont orientées vers l’extraversion/action.
-                </p>
-                <h4>Le profil jaune en quelques mots :</h4>
+                    People with a predominantly "yellow" profile are sociable and communicative. They perceive the environment in a favourable/sociable way and are oriented towards extroversion/action.                </p>
+                <h4>The yellow profile in a few words :</h4>
                 <p>
-                    Amical,  assuré, communicant, créatif, démonstratif, enthousiaste, expansif, inspirant, optimiste, persuasif, spontané, et rêveur.                </p>
+                    Friendly, assertive, communicative, creative, demonstrative, enthusiastic, expansive, inspiring, optimistic, persuasive, spontaneous, and dreamy.                 </p>
             </div>
 
             <div className="about">
                 <div className="carater">
-                    <h4>Les caractéristiques principales pour une personnalité à dominante jaune :</h4>
+                    <h4>The main characteristics for a predominantly yellow personality :</h4>
                     <ul>
                         <li>Optimisme, enthousiasme, communication, actions et décisions spontanées.</li>
                         <li>Recherche l’estime et la reconnaissance, aime travailler en groupe.</li>
@@ -31,23 +29,23 @@ const Rouge = () => {
                 </div>
 
                 <div className="pour">
-                    <h4>Pour bien communiquer avec un interlocuteur à dominante jaune, il faut :</h4>
+                    <h4>In order to communicate well with a yellow-dominant speaker, you must :</h4>
                     <ul>
-                        <li>Se montrer relationnel, chaleureux et enthousiaste, partager le plaisir et le laisser s’exprimer.</li>
-                        <li>Être créatif et informel, montrer à la personne que vous l’appréciez (vraiment) </li>
-                        <li>Entrer dans son réseau d’influence.</li>
+                        <li>  Be relational, warm and enthusiastic, share the pleasure and let it express itself.</li>
+                        <li>Be creative and informal, show the person that you appreciate him/her (really). </li>
+                        <li>Enter his network of influence.</li>
                     </ul>
                 </div>
             </div>
             <div className="profil-space"></div>
 
             <div className="autres">
-                <div className="autres-tile"> <h4>Perception de son environnement</h4> </div>
+                <div className="autres-tile"> <h4>Perception of your environment</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Perception favorable de l’environnement Orienté vers les autres et vers l’action.
-                        “Je peux influencer mon environnement.”
+                        Favourable perception of the environment Oriented towards others and towards action.
+                        "I can influence my environment."
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
@@ -62,22 +60,21 @@ const Rouge = () => {
                 <div className="ligne"><hr /></div>
 
 
-                <div className="autres-tile"> <h4>Peurs</h4> </div>
+                <div className="autres-tile"> <h4>Fears</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Peur de ne plus être aimé ou reconnu et peur de perdre sa liberté.
+                        Fear of no longer being loved or recognized and fear of losing one's freedom.
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
 
 
-                <div className="autres-tile"> <h4>Causes de stress</h4> </div>
+                <div className="autres-tile"> <h4>Causes of stress</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Environnement conflictuel, règles, procédures, contraintes. Détails, rester sur place. Travailler de manière isolée.
-                    </p>
+                        Conflictual environment, rules, procedures, constraints. Details, staying on site. Working in isolation.                    </p>
                 </div>
                 <div className="ligne"><hr /></div>
             </div>

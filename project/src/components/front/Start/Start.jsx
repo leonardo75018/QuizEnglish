@@ -6,9 +6,9 @@ import Footer from "../Footer/Footer"
 
 const Start = ({ quizStartHandler }) => {
     const text = [
-        "Ce test comprend  vingt-cinq propositions. ",
-        " Sélectionnez la ligne composée des deux adjectifs qui vous qualifient le mieux. Votre résultat sera d’autant plus précis que vous répondrez spontanément.",
-        "Ça prendra 5 minutes. Êtes-vous prêt à commencer ?"
+        "  This test consists of a series of twenty-five proposals. ",
+        " Select the line consisting of the two adjectives that best qualify you.  The more spontaneous your answers, the more accurate your result will be. ",
+        "It will take 5 minutes. Are you ready to start?"
     ]
 
 
@@ -26,7 +26,7 @@ const Start = ({ quizStartHandler }) => {
                     {text.map(item => <p>{item}</p>)}
                 </div>
             </div>
-            <button className="btn-start" onClick={quizStartHandler}>Allons-y</button>
+            <button className="btn-start" onClick={quizStartHandler}>Let’s Go!</button>
             <div className="start-space"></div>
             <Footer />
 

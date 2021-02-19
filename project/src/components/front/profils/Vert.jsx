@@ -5,55 +5,59 @@ const Rouge = () => {
     return (
         <div id="profil-container">
             <div className="color">
-                <h2>  PROFILE</h2>&nbsp;&nbsp;&nbsp;&nbsp; <h2 className="vert marge">VERT </h2>
+                <h2>  PROFILE</h2>&nbsp;&nbsp;&nbsp;&nbsp; <h2 className="vert marge">GREEN </h2>
             </div>
 
             <div className="descrip">
                 <p>
-                    Le vert est symbole de vie, de croissance, d’harmonie et de stabilité, tel cet arbre bien ancré par ses racines. C’est une couleur qui réconforte, détend et dont il fait bon s’entourer.
+                    Green is a symbol of life, growth, harmony and stability, like this tree well anchored by its roots. It is a color that comforts, relaxes and is good to be surrounded by.
                 </p>
 
                 <p>
-                    Les personnes avec un profil à dominante “verte” sont souvent discrètes et coopératives. Elles perçoivent l’environnement de manière favorable/sociable et sont orientées vers l’introversion/réflexion.
+                    The green component describes how a person stabilizes his environment and reacts to changes in rhythm. This behaviour is the result of an orientation towards introversion in an environment perceived as favourable.
                 </p>
 
-                <h4>Le profil vert en quelques mots :</h4>
                 <p>
-                    Attentionné, à l’écoute, calme, compréhensif, consistant, coopérant, détendu, empathique, lent, loyal, patient.
+                    People with a predominantly "green" profile are often discreet and cooperative. They perceive the environment in a favourable/sociable way and are oriented towards introversion/reflection.
                 </p>
+
+                <h4>The green profile in a few words :</h4>
+                <p>
+                    Attentive, listening, calm, understanding, consistent, cooperative, relaxed, empathetic, slow, loyal, patient.
+                 </p>
             </div>
 
             <div className="about">
                 <div className="carater">
-                    <h4>Les caractéristiques principales pour une personnalité à dominante vert :</h4>
+                    <h4>The main characteristics for a predominantly green personality :</h4>
                     <ul>
-                        <li>Attention, stabilité et patience, aime les relations personnalisées.</li>
-                        <li>Recherche la cohérence et l’harmonie, besoin d’anticiper.</li>
-                        <li>N’aime pas les conflits, soutient et écoute activement les autres.</li>
-                        <li>Recherche la sécurité et le sentiment d’appartenance.</li>
+                        <li>Attention, stability and patience, likes personalised relationships</li>
+                        <li>Seeks coherence and harmony, need to anticipate.</li>
+                        <li>Dislikes conflict, supports and actively listens to others.</li>
+                        <li>Seeks security and a sense of belonging.</li>
                     </ul>
 
                 </div>
 
                 <div className="pour">
-                    <h4>Pour bien communiquer avec un interlocuteur à dominante vert, il faut :</h4>
+                    <h4>In order to communicate well with a green-dominant person, you need to :</h4>
                     <ul>
-                        <li>Être empathique, relationnel et amical, créer une relation de partenariat et de solidarité.</li>
-                        <li>Se donner du temps pour construire petit à petit la confiance.</li>
-                        <li>Ne pas les exposer en leur demandant leur avis, les accompagner et les aider à décider.</li>
-                        <li>Être patient et les mettre en confiance.</li>
+                        <li>Be empathetic, relational and friendly, create a relationship of partnership and solidarity.</li>
+                        <li>Give yourself time to build trust little by little.</li>
+                        <li>Do not expose them by asking their opinion, accompany them and help them decide.</li>
+                        <li>Be patient and put them at ease.</li>
                     </ul>
                 </div>
             </div>
             <div className="profil-space"></div>
 
             <div className="autres">
-                <div className="autres-tile"> <h4>Perception de son environnement</h4> </div>
+                <div className="autres-tile"> <h4>Perception of your environment</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Perception favorable de l’environnement et orienté vers l’introversion.
-                        “Je peux stabiliser mon environnement.”
+                        Favourable perception of the environment and oriented towards introversion.
+                        "I can stabilise my environment."
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
@@ -63,13 +67,13 @@ const Rouge = () => {
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Être utile aux autres, évoluer dans un environnement stable, cohérent et harmonieux.
+                        Be useful to others, evolve in a stable, coherent and harmonious environment.
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
 
 
-                <div className="autres-tile"> <h4>Peurs</h4> </div>
+                <div className="autres-tile"> <h4>Fears</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
@@ -79,11 +83,11 @@ const Rouge = () => {
                 <div className="ligne"><hr /></div>
 
 
-                <div className="autres-tile"> <h4>Causes de stress</h4> </div>
+                <div className="autres-tile"> <h4>Causes of stress</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Conflits, pression, urgence, changements de rythme.
+                        Loss of security, stability and references.
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>

@@ -16,8 +16,8 @@ const End = ({ answers, setFinish }) => {
 
     const EMAIL_REGEX = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     const textEnd = [
-        "Impatient de connaître votre résultat ?",
-        "Saisissez votre adresse mail, on va vous en dire plus.",
+        "  Can't wait to see your result? ",
+        "  Enter your email address, we'll tell you more.",
     ]
 
     const [email, setEmail] = useState("")
@@ -41,13 +41,13 @@ const End = ({ answers, setFinish }) => {
 
 
         if (!email.trim()) {
-            setError("veuillez ajouter une adresse email")
+            setError("Please add an email address")
             return
         }
 
 
         if (!EMAIL_REGEX.test(email)) {
-            setError("veuillez utiliser une adresse email valide")
+            setError("Please use a valid email address")
             return
         }
         sendEmail()
@@ -81,12 +81,12 @@ const End = ({ answers, setFinish }) => {
                             </div>
                             <div className="form">
                                 <form onSubmit={checkEmail}>
-                                    <input type="email" placeholder="Votre adresse mail"
+                                    <input type="email" placeholder="Your e-mail address"
                                         onChange={e => setEmail(e.target.value)}
                                     />
                                     <span className="error">{error}</span>
 
-                                    <button className="btn-send" type="submit">Envoyer</button>
+                                    <button className="btn-send" type="submit">Send</button>
                                 </form>
                                 <div className="end-spa">
 

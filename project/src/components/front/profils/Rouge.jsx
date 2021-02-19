@@ -6,55 +6,53 @@ const Rouge = () => {
         <div id="profil-container">
             <div className="intro-space"></div>
             <div className="color">
-                <h2>  PROFILE </h2>&nbsp;&nbsp;&nbsp;&nbsp;  <h2 className="rouge marge">ROUGE</h2>
+                <h2>  PROFILE </h2>&nbsp;&nbsp;&nbsp;&nbsp;  <h2 className="rouge marge">RED</h2>
 
             </div>
             <div className="descrip">
                 <p>
-                    C’est la couleur de la force, de l’activité, de la rapidité. Symbole de feu, le rouge est la lave, l’incandescence, la chaleur. Les rayons infrarouges procurent une sensation de chaleur. Cette couleur montre la détermination des personnes à agir.
+                    It is the color of strength, activity, speed. Symbol of fire, red is lava, incandescence, heat. Infrared rays provide a feeling of warmth. This color shows the determination of people to act.
                 </p>
                 <p>
-                    Les personnes avec profil à dominante “rouge”  sont souvent franches et directes et aiment des défis. Elles perçoivent leur environnement comme hostile alors elles sont orientées vers l’extraversion et l’action.                </p>
-                <h4>Le profil rouge en quelques mots :</h4>
+                    People with a predominantly "red" profile are often straightforward and direct and like challenges. They perceive their environment as hostile so they are oriented towards extroversion and action.                </p>
+                <h4>The red profile in a few words:</h4>
                 <p>
-                    Autoritaire, compétitif, courageux, décidé, déterminé, direct, énergique, entreprenant, exigeant, indépendant, meneur et rapide.
-                </p>
+                    Authoritarian, competitive, courageous, decisive, determined, direct, energetic, enterprising, demanding, independent, leading and fast-paced.                 </p>
             </div>
 
             <div className="about">
                 <div className="carater">
-                    <h4>Les caractéristiques principales pour une personnalité à dominante rouge :</h4>
+                    <h4>The main characteristics for a predominantly red personality:</h4>
                     <ul>
-                        <li>Rapidité, énergie, actions résolues, sens du résultat.</li>
-                        <li>Compétitivité, recherche d’un maximum d’indépendance.</li>
-                        <li>Recherche d’un maximum de liberté pour se gérer et gérer les autres.</li>
-                        <li>Orienté vers les résultats et plus que la relation, travailler rapidement et seul.</li>
-                        <li>Décide rapidement.</li>
-
+                        <li>Speed, energy, resolute actions, sense of result.</li>
+                        <li>Competitiveness, search for maximum independence.</li>
+                        <li>Search for a maximum of freedom to manage oneself and others.</li>
+                        <li>Results-oriented and more than relationship oriented, working quickly and alone.</li>
+                        <li>Decide rapidly.</li>
                     </ul>
 
                 </div>
 
                 <div className="pour">
-                    <h4>Pour bien communiquer avec un interlocuteur à dominante rouge, il faut :</h4>
+                    <h4>In order to communicate well with a red-dominant speaker, you must :</h4>
                     <ul>
-                        <li>Aller droit au but, exposer ses objectifs et le questionner sur les siens</li>
-                        <li>Être concis et affirmé, aller droit à l’essentiel si vous ressentez de l’impatience chez votre interlocuteur.</li>
-                        <li>Valoriser ce qu’il a à gagner en allant dans votre sens, l’amener à être moteur et décideur</li>
-                        <li>Le faire bouger si possible car il aura dès lors une meilleure écoute.</li>
-                        <li>Valoriser son sens du défi et de la réactivité</li>
+                        <li>Go straight to the point, explain your objectives and ask questions about your own.</li>
+                        <li>Be concise and assertive, go straight to the point if you feel impatient with your interlocutor.</li>
+                        <li>Valuing what he has to gain by going in your direction, leading him to be a driving force and decision-maker.</li>
+                        <li>Make him move if possible because he will then have a better listening experience.</li>
+                        <li>Enhance his sense of challenge and responsiveness.</li>
                     </ul>
                 </div>
             </div>
             <div className="profil-space"></div>
 
             <div className="autres">
-                <div className="autres-tile"> <h4>Perception de son environnement</h4> </div>
+                <div className="autres-tile"> <h4>Perception of your environment</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Environnement perçu comme hostile, orienté vers l’action.
-                        “Je serai plus fort que mon environnement.”
+                        Perceived hostile, action-oriented environment.
+                        "I will be stronger than my environment."
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
@@ -64,27 +62,26 @@ const Rouge = () => {
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Diriger, gagner, décider, résoudre des problèmes. Évoluer dans un monde de compétition et de pression. Agir rapidement et faire plusieurs choses à la fois.
+                        Lead, win, decide, solve problems Evolving in a world of competition and pressure. Act quickly and do several things at once.                    </p>
+                </div>
+                <div className="ligne"><hr /></div>
+
+
+                <div className="autres-tile"> <h4>Fears</h4> </div>
+                <div className="autres-space"></div>
+                <div className="autres-p">
+                    <p>
+                        Fear of losing face, fear of being taken advantage of and fear of failure.
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
 
 
-                <div className="autres-tile"> <h4>Peurs</h4> </div>
+                <div className="autres-tile"> <h4>Causes of stress</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Peur de perdre la face, peur que l’on profite de lui et peur de l’échec.
-                    </p>
-                </div>
-                <div className="ligne"><hr /></div>
-
-
-                <div className="autres-tile"> <h4>Causes de stress</h4> </div>
-                <div className="autres-space"></div>
-                <div className="autres-p">
-                    <p>
-                        Déteste la lenteur, s’ennuie vite et redoute l’immobilisme
+                        Hates slowness, gets bored quickly and fears immobility.
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>

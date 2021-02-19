@@ -5,44 +5,42 @@ const Rouge = () => {
     return (
         <div id="profil-container">
             <div className="color">
-                <h2> PROFILE </h2> &nbsp;&nbsp;&nbsp;&nbsp;   <h2 className="blue marge">BLEU</h2>
+                <h2> PROFILE </h2> &nbsp;&nbsp;&nbsp;&nbsp;   <h2 className="blue marge">BLUE</h2>
             </div>
 
 
             <div className="descrip">
                 <p>
-                    Symbolisée par la rigueur, la composante bleue décrit la manière dont une personne se conforme et réagit aux règles et aux procédures édictées par les autres. Ce comportement résulte d’une orientation vers la réflexion dans un environnement perçu comme hostile.
-
-                </p>
+                    Symbolized by rigor, the blue component describes the way a person complies and reacts to the rules and procedures laid down by others. This behaviour is the result of a reflective orientation in a perceived hostile environment.
+              </p>
                 <p>
-                    Les personnes avec un profil à dominante bleue perçoivent l’environnement de manière hostile, et sont orientées vers l’introversion/réflexion. Elles seront décrite par les autres comme des personnes factuelles, logiques, organisées, sachant organiser, structurer et contrôler.
-                </p>
-                <h4>Le profil bleu en quelques mots :</h4>
+                    People with a predominantly blue profile perceive the environment as hostile and are oriented towards introversion/reflection. They will be described by others as factual, logical, organized, knowing how to organize, structure and control.                </p>
+                <h4>The blue profile in a few words :</h4>
                 <p>
-                    Analytique, conventionnel, distant, exact, exigeant, factuel, précis, réaliste, et structuré.                </p>
+                    Analytical, conventional, distant, accurate, demanding, factual, precise, realistic, and structured.
+                </p>
             </div>
 
             <div className="about">
                 <div className="carater">
-                    <h4>Les caractéristiques principales pour une personnalité à dominante bleue :</h4>
+                    <h4>The main characteristics for a predominantly blue personality :</h4>
                     <ul>
-                        <li>Recherche des faits et des explications logiques.</li>
-                        <li>Actions et prises de décisions prudentes, organisation, structure et détails.</li>
-                        <li>Objectif analytique et orienté vers la tâche, travail solitaire avec beaucoup de précision.</li>
+                        <li>Search for facts and logical explanations.</li>
+                        <li>Prudent actions and decision making, organization, structure and details.</li>
+                        <li>Analytical and task-oriented objective, working alone with great precision.</li>
                     </ul>
 
                 </div>
 
                 <div className="pour">
-                    <h4>Pour bien communiquer avec un interlocuteur à dominante bleue, il faut :</h4>
+                    <h4>In order to communicate well with a blue-dominant person, you need to :</h4>
                     <ul>
-                        <li>Être précis, factuel et structuré.</li>
-                        <li>Préparer ses entretiens à l’avance.</li>
-                        <li>Introduire le sujet, le contexte et valider le temps nécessaire.</li>
-                        <li>Prendre le temps pour les détails.</li>
-                        <li>Ne pas brusquer et être distant sans toucher la personne.</li>
-                        <li>Ne pas chercher à réchauffer l’ambiance.</li>
-
+                        <li>Be precise, factual and structured.</li>
+                        <li>Prepare your interviews in advance.</li>
+                        <li>Introduce the subject, the context and validate the time required.</li>
+                        <li>Take time for details.</li>
+                        <li>Do not rush and be distant without touching the person.</li>
+                        <li>Do not try to warm up the atmosphere.</li>
                     </ul>
                 </div>
             </div>
@@ -53,8 +51,8 @@ const Rouge = () => {
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Perception défavorable de l’environnement et orienté vers l’introversion.
-                        “Je peux me conformer à mon environnement.”
+                        Unfavourable perception of the environment and oriented towards introversion.
+                        "I can conform to my environment".
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
@@ -64,36 +62,29 @@ const Rouge = () => {
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Se conformer à des standards élevés dans un environnement perçu de manière hostile.                    </p>
+                        Comply with high standards in a perceived hostile environment.
+                   </p>
                 </div>
                 <div className="ligne"><hr /></div>
 
-
-                <div className="autres-tile"> <h4>Peurs</h4> </div>
+                <div className="autres-tile"> <h4>Fears</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Peur de l’erreur, peur de perte de sécurité.
+                        Fear of error, fear of loss of security.
                     </p>
                 </div>
                 <div className="ligne"><hr /></div>
 
 
-                <div className="autres-tile"> <h4>Causes de stress</h4> </div>
+                <div className="autres-tile"> <h4>Causes of stress</h4> </div>
                 <div className="autres-space"></div>
                 <div className="autres-p">
                     <p>
-                        Craint la critique et n’aime pas être pris à l’improviste. N’aime pas travailler dans l’urgence. Craint l’absence de règles.
-                    </p>
+                        Fears criticism and does not like to be caught unawares. Does not like to work in a rush. Fears the absence of rules.                    </p>
                 </div>
                 <div className="ligne"><hr /></div>
                 <div className="next-space"></div>
-
-
-
-
-
-
             </div>
         </div>
     )
