@@ -1,0 +1,62 @@
+
+
+.contente{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.colortText-contente{
+    width: 300px;
+
+}
+.colortText-contente img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.intro{
+    width: 100;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text{
+    width: 100%;
+   height: auto;
+   padding-left: 150px;
+}
+
+.text-contente{
+    width: 805px;
+    height: 200px;
+    text-align: left; 
+}
+
+.text p{
+    padding-bottom: 15px;
+}
+
+
+
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    width: 220px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+
+  button {border-radius: 20px;}
+  button:hover{
+      cursor: pointer;
+  }

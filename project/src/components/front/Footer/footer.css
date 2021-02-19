@@ -1,0 +1,59 @@
+
+footer{
+    width: 100%;
+   height: 10vh;
+  
+}
+
+.academie-content{
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+  
+}
+
+.text-content{
+   
+}
+
+
+.academie{
+    width: 150px;
+    height: 60px;
+    padding: 0px 50px 0px 0;  
+}
+
+
+.academie img{
+    width: 100%;
+  
+    
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+    .academie-content{
+        width: 100%;
+        height: 100%;
+      
+        display: flex;
+        justify-content: center;
+        
+       
+    }
+
+   
+
+
+
+
+  }
+

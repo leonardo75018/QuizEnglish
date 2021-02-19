@@ -1,0 +1,254 @@
+@font-face {
+    font-family: "Avenir Next LT Pro";
+    src: url("../../../Font/AvenirNextLTPro-Regular.otf") format("otf"),
+   }
+  
+   @font-face {
+    font-family: "Gilroy";
+    src: url("../../../Font//Gilroy-ExtraBold.otf") format("otf"),
+   }
+
+   .groupe h3 ,.points {
+    font-family: "Gilroy";
+    font-size: 29px;
+}
+
+.carater ul , li {
+   font-size: 20px;
+}
+
+.about h4 , .descrip h4{
+   font-family: "Avenir Next LT Pro";
+   font-size: 20px;
+   font-weight:500;
+}
+
+
+.autres-tile h4{
+    font-family: "Avenir Next LT Pro";
+    font-size: 20px;
+    font-weight:500;
+
+}
+
+
+
+
+.intro-space{
+    height: 5vh;
+}
+
+p,ul,button{
+   
+    color: rgb(23, 2, 49);
+}
+
+
+h2{
+    font-size: 31px;
+    font-weight:900;
+
+}
+
+
+
+#profil-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.color{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.descrip{
+    width: 80%;
+    height: auto;
+}
+
+.about{
+    width:80% ;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.carater{
+    width: 49%;
+    height: auto;
+}
+
+
+
+.pour{
+    width: 49%;
+    height: auto;
+}
+
+.carater , .pour,  ul li{
+    padding-bottom: 10px;
+
+}
+
+
+.profil-space{
+    width: 100%;
+    height: 0;
+}
+
+.autres{
+    width: 59%;
+    height: auto;
+    display:flex ;
+    flex-wrap: wrap;
+
+}
+
+.autres-tile {
+    width: 26%;
+    display: flex;
+    align-items: center;
+}
+
+.autres-space{
+    width: 15%;
+ 
+}
+
+.autres-p{
+    width: 59%;
+    display: flex;
+}
+
+.ligne{
+    width: 100%;
+}
+
+hr{
+    width: 100%;
+
+}
+
+.rouge{
+    color: #EA4009;
+}
+
+.jaune{
+    color:#E7C440;
+}
+
+ .vert{
+     color:#31B340;
+ }
+
+ .blue{
+     color: #4BA1DE;
+ }
+
+
+ .next-space{
+     height: 10vh;
+ }
+
+
+
+/* Responsive  */
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+
+    .intro-space{
+        height: 0vh;
+    }
+    
+    .next-space {
+        height: 0vh;
+    }
+
+
+    .color{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    
+    }
+
+    .descrip{
+        width: 85%;
+      
+    }
+
+
+    
+    
+    .about{
+        width:85% ;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+
+    .pour , .carater{
+        width: 100%;
+        
+    }
+
+
+    .autres {
+        width: 70%;
+    }
+
+    .autres-tile{
+        display: flex;
+        height: auto;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .marge{
+        margin-top: -30px;
+    }
+
+    .profil-space {
+     
+        height: 0;
+    }
+
+    .disc {
+        margin-top: -9px;
+        padding-bottom: 20px;
+    }
+
+    .groupe h3, .points {
+        margin-top: -21px;
+    }
+
+
+
+   .groupe h3, .points {
+    margin-top: 6px;
+}
+
+    .groupe h3, .points {
+        font-size: 20px;
+    }
+
+    .groupe h3, .points {
+        margin-top: -25px;
+    }
+
+    .marge {
+    margin-top: -63px;
+}
+    
+    
+
+}

@@ -1,0 +1,105 @@
+{
+    "data": [
+        {
+            "step": 1,
+            "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+            "choices": [
+                {
+                    "a": {
+                        "possi": "calme",
+                        "groupe": "blue"
+                    },
+                    "b": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "vert"
+                    },
+                    "c": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "jaune"
+                    },
+                    "d": {
+                        "possi": "Stratège et entreprenant",
+                        "groupe": "rouge"
+                    }
+                }
+            ]
+        },
+        {
+            "step": 2,
+            "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+            "choices": [
+                {
+                    "a": {
+                        "possi": "calme",
+                        "groupe": "jaune"
+                    },
+                    "b": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "vert"
+                    },
+                    "c": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "rouge"
+                    },
+                    "d": {
+                        "possi": "Stratège et entreprenant",
+                        "groupe": "blue"
+                    }
+                }
+            ]
+        },
+        {
+            "step": 3,
+            "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+            "choices": [
+                {
+                    "a": {
+                        "possi": "calme",
+                        "groupe": "vert"
+                    },
+                    "b": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "rouge"
+                    },
+                    "c": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "jaune"
+                    },
+                    "d": {
+                        "possi": "Stratège et entreprenant",
+                        "groupe": "blue"
+                    }
+                }
+            ]
+        },
+        {
+            "step": 4,
+            "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+            "choices": [
+                {
+                    "a": {
+                        "possi": "calme",
+                        "groupe": "rouge"
+                    },
+                    "b": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "blue"
+                    },
+                    "c": {
+                        "possi": "Loyal et attentif à autrui",
+                        "groupe": "vert"
+                    },
+                    "d": {
+                        "possi": "Stratège et entreprenant",
+                        "groupe": "jaune"
+                    }
+                }
+            ]
+        },
+        {
+            "step": 5,
+            "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+            "choices": []
+        }
+    ]
+}

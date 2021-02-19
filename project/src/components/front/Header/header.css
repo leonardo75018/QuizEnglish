@@ -1,0 +1,34 @@
+
+header{
+    width: 100%;
+    height: 15vh;  
+}
+
+.logo-contente{
+    width: 250px;
+    padding: 30px;
+}
+
+.logo-contente img{
+    width: 200px;
+}
+
+
+/* Responsive  */
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+header{
+        display: flex;
+        justify-content: center;  
+        padding-top: 20px;       
+}
+
+.logo-contente{
+    width: 200px;
+    padding: none;
+}
+
+
+
+}

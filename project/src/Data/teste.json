@@ -1,0 +1,109 @@
+,
+{
+    "step": 2,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Sociable et familier",
+            "b": "Honnête et discret",
+            "c": "Énergique et orienté vers le résultat",
+            "d": "Méthodique et logique"
+        }
+    ]
+}
+{
+    "step": 3,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Calme et d'humeur égale",
+            "b": "Déterminé et aimant diriger",
+            "c": "Enjoué et rayonnant",
+            "d": "Formaliste et factuel"
+        }
+    ]
+},
+{
+    "step": 4,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Sûr de lui et volontaire",
+            "b": "Ordonné et concis",
+            "c": "Familier et stable",
+            "d": "Loquace et de bonne humeur"
+        }
+    ]
+},
+{
+    "step": 5,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Perspicace et impartial",
+            "b": "Exigeant et direct",
+            "c": "Constant et attaché aux valeurs",
+            "d": "Actif et liant"
+        }
+    ]
+},
+{
+    "step": 6,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Accommodant et serviable",
+            "b": " Plein d'espoir et expressif",
+            "c": " Puissant et sûr de lui",
+            "d": "Pensif et maître de soi"
+        }
+    ]
+},
+{
+    "step": 7,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Ouvert et persuasif",
+            "b": " Appliqué et sélectif dans ses relations",
+            "c": "Ferme et entreprenant",
+            "d": "Posé et analytique"
+        }
+    ]
+},
+{
+    "step": 8,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Déterminé et résolu",
+            "b": "Avenant et jovial",
+            "c": "Sensible et amical",
+            "d": "Logique et correct"
+        }
+    ]
+},
+{
+    "step": 9,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Compatissant et diplomate",
+            "b": "Précis et mesuré",
+            "c": " Encourageant et ouvert aux idées",
+            "d": "Orienté résultat et rapide"
+        }
+    ]
+},
+{
+    "step": 10,
+    "question": "choisissez les adjectifs qui vous qualifie le mieux ",
+    "choices": [
+        {
+            "a": "Responsable et ferme",
+            "b": "Réservé et coopératif",
+            "c": "Expansif et imaginatif",
+            "d": "Méticuleux et minutieux"
+        }
+    ]
+}

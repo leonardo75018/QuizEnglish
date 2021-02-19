@@ -1,0 +1,80 @@
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  src: url("./Font/AvenirNextLTPro-Regular.otf") format("otf"),
+ }
+
+ @font-face {
+  font-family: "Gilroy";
+  src: url("./Font/Gilroy-ExtraBold.otf") format("otf"),
+ }
+
+
+ p ,button, .error, h4 ul , li{
+  font-family: "Avenir Next LT Pro";
+ }
+
+ p{
+   font-size: 20px;
+ }
+
+ h1{
+  font-family: "Gilroy";
+  font-size: 75px ;
+ }
+
+ h2{
+  font-family: "Gilroy";
+  font-size: 40px ;
+  letter-spacing: 1px;
+
+ }
+
+
+.space{
+  width: 100%;
+  height: 19vh;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+  .space{
+    width: 100%;
+    height: 0;
+  }
+
+
+  h1{
+    font-family: "Gilroy";
+    font-size: 30px ;
+  
+   }
+
+
+
+
+
+   
+
+
+
+
+
+  
+}
+
+
+
+
+
+
+

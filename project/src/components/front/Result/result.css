@@ -1,0 +1,151 @@
+@font-face {
+    font-family: "Avenir Next LT Pro";
+    src: url("../../../Font/AvenirNextLTPro-Regular.otf") format("otf"),
+   }
+  
+   @font-face {
+    font-family: "Gilroy";
+    src: url("../../../Font//Gilroy-ExtraBold.otf") format("otf"),
+   }
+
+
+   .result-container h4{
+    font-family: "Gilroy";
+    font-size: 29px;
+   }
+
+
+
+.result-main{
+    width: 100%;
+    height: auto;
+  
+}
+
+.result-p{
+    width: 80%;
+}
+
+
+
+.result-container{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.result-container h4{
+
+   font-size: 29px;
+}
+
+
+
+.disc{
+    font-size: 29px;
+    margin-top: -21px;
+}
+
+
+
+
+.groupe{
+   width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+
+
+.points{
+    width: 42.5%;
+     display: flex;
+     justify-content: space-between;
+     margin-top: -50px;
+  
+ }
+
+
+.vert{
+    color: #31B340;
+}
+.rouge{
+    color: red;
+}
+.jaune{
+    color: #E9C957;
+}
+
+.blue{
+    color: #69BBF2;
+}
+
+.autres-options{
+   /* padding-top: 70px;
+   width: 100%;
+   height: auto; */
+}
+
+.result-space{
+    height: 32vh;
+}
+
+
+.profiles-content{
+    width: 100%;
+    height: auto;
+    background-color: brown;
+    
+}
+
+
+.result-space-profil{
+    width: 100%;
+    height:15vh ;
+    background-color: blueviolet;
+
+}
+
+
+/* Responsive  */
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+
+    .result-container{
+        width: 100%;
+    }
+    .groupe{
+        width: 80%;
+         display: flex;
+         justify-content: space-between;
+       
+     }
+
+     .points{
+         width: 70%;
+     }
+
+     .result-p{
+         width: 80%;
+     }
+
+
+     .result-space{
+        height: 160vh;
+    }
+     
+    .result-space-profil{
+        width: 100%;
+        height:10vh ;
+        background-color: blueviolet;
+    
+    }
+
+    .marge{
+        padding: 20px;
+    }
+
+}

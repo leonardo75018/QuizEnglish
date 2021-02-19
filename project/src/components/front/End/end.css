@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "Gilroy";
+    src: url("../../../Font//Gilroy-ExtraBold.otf") format("otf"),
+   }
+
+
+.textEnd p{
+    font-size: 24px;
+    font-family: "Gilroy";
+    margin-top: -12px;
+
+}
+
+.textEnd {
+    padding-top: 60px;
+
+}
+
+
+.btn-send:hover{
+        background-color: white;
+        color: rgb(23, 2, 49);
+        border: 2px solid rgb(23, 2, 49);
+  
+    }
+
+
+
+
+.end-content{
+    width: 100%;
+}
+
+
+.end-space{
+    height: 16vh;
+    width: 400px;
+  
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+    .textEnd {
+        padding-top: 30px;
+    }
+    
+    .textEnd p {
+        font-size: 21px;
+        margin-top: 4px;
+        text-align: center;
+    }
+
+    form {
+        margin-top: -20px;
+    }
+
+    .error {
+        margin-top: -28px;
+    }
+
+    .btn-send {
+        margin-top: 10px;
+    }
+
+    .end-space{
+        height: 23vh;
+      
+    }
+
+   
+
+    
+
+  }
